@@ -1,6 +1,8 @@
+<img src="/profile/edith.png" align ="right" height="120" />
+
 # Elucidating Diversity Dynamics in Marine Tropical Hotspots (EDiTH)
 
-Welcome to the GitHub organisation page of the project. The aim of EDiTH is to reconstruct the evolutionary history of marine biodiversity hotspots throughout the Cenozoic, and test for any general rules governing their emergence, maintenance, and ultimate decline. The project focuses on using scleractinian corals as a biological model taxa and is supported by a large international team of collaborators to faciliate an interdisciplinary approach through combining Earth System Modelling with palaeontological data to perform a suite of macroevolutionary and macroecological analyses.
+Welcome to the GitHub organisation page of the project. The aim of EDiTH is to reconstruct the evolutionary history of marine biodiversity hotspots throughout the Cenozoic, and test for any general rules governing their emergence, maintenance, and ultimate decline. The project focuses on using scleractinian corals as a biological model taxa and is supported by a large international team of collaborators to faciliate an interdisciplinary approach by combining Earth System Modelling with palaeontological data to perform a suite of macroevolutionary and macroecological analyses.
 
 ## Collaborators
 
