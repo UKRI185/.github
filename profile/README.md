@@ -4,6 +4,8 @@
 
 Welcome to the GitHub organisation page of the project. The aim of EDiTH is to reconstruct the evolutionary history of marine biodiversity hotspots throughout the Cenozoic, and test for any general rules governing their emergence, maintenance, and ultimate decline. The project focuses on using scleractinian corals as a biological model taxa and is supported by a large international team of collaborators to faciliate an interdisciplinary approach by combining Earth System Modelling with palaeontological data to perform a suite of macroevolutionary and macroecological analyses.
 
+The project is led by [Lewis A. Jones](https://lewisajones.com) at [University College London](https://www.ucl.ac.uk/earth-sciences/people/research-fellows/dr-lewis-jones).
+
 ## Collaborators
 
 - [Dr Nadia Santodomingo](https://palaeobiology.web.ox.ac.uk/people/dr-nadia-santodomingo), Natural History Museum, UK
