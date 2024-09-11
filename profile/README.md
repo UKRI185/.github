@@ -14,6 +14,10 @@ Welcome to the GitHub organisation page of the project. The aim of EDiTH is to r
 - [Dr Alexander Farnsworth](https://www.bristol.ac.uk/people/person/Alexander-Farnsworth-24da3223-4bc1-4e18-9bcb-eb02a7976395/), University of Bristol, UK
 - [Dr Sabin Zahirovic](https://www.sydney.edu.au/science/about/our-people/academic-staff/sabin-zahirovic.html), University of Sydney, Australia
 
+## Links
+
+- [Zenodo data repository](https://zenodo.org/communities/edith)
+
 ## Funding information
 
 The EDiTH project is funded by the UK's [Natural Environment Research Council](https://www.ukri.org/councils/nerc/) (NERC) through an Independent Research Fellowship awarded to [Lewis A. Jones](https://lewisajones.com) (project no. APP19237).
