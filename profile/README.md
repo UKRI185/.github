@@ -1,4 +1,4 @@
-<img src="/profile/edith.png" align ="right" height="120" />
+<img src="/profile/edith.png" align ="right" height="100" />
 
 # Elucidating Diversity Dynamics in Marine Tropical Hotspots (EDiTH)
 
