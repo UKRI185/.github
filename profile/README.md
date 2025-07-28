@@ -24,7 +24,7 @@ The project is led by [Lewis A. Jones](https://lewisajones.com) at [University C
 
 The EDiTH project is funded by the UK's [Natural Environment Research Council](https://www.ukri.org/councils/nerc/) (NERC) through an Independent Research Fellowship awarded to [Lewis A. Jones](https://lewisajones.com) (project no. UKRI185).
 
-<img src="/profile/nerc.jpg" width="200" />
+<img src="/profile/UKRI_NERC.png" width="200" />
 
 Additional funding from the following organisations has also supported elements of this project:  
 
